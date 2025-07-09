@@ -49,3 +49,10 @@ Below are two concrete examples each for image‐based **classification** and **
 | **Output**        | Class probabilities → class label   | Direct numerical prediction         |
 | **Evaluation**    | Accuracy, Precision/Recall, ROC-AUC | RMSE, MAE, R²                       |
 
+## Question 
+in csv file using following columns build a model to predict if person would survive or not
+1.Pclass
+2.Gender
+3.Age
+4.Fare
+Calculate score of your model
