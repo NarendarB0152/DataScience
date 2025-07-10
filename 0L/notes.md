@@ -9,3 +9,8 @@
 
 ![image](https://github.com/user-attachments/assets/8fe4290d-fe4f-40de-8ed2-1d95cc389068)
 
+| Aspect                 | Batch GD                             | SGD                                 |
+| ---------------------- | ------------------------------------ | ----------------------------------- |
+| Convergence “Path”     | Smooth, direct toward minimum        | Fluctuating, zig-zagging toward min |
+| Iterations to Converge | Fewer (but each is costly)           | More (but each is cheap)            |
+| Risk of Getting Stuck  | Higher (in local minima or plateaus) | Lower (noise can help escape)       |
