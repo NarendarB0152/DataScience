@@ -3,4 +3,4 @@
 # handWritten Digits
 ![image](https://github.com/user-attachments/assets/12e02771-cd7d-4516-b99e-e0852bc0b1e3)
 
-
+![image](https://github.com/user-attachments/assets/478c79c4-c0b5-4ee4-b0ab-828ca1395742)
