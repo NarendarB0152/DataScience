@@ -47,7 +47,7 @@ Input(x₃) ──────→ RNN ────→ Output(y₃)
 
 ## 🔴 **Problem with RNN (Vanishing Gradient):**
 
-* RNNs struggle to learn from very long sequences due to the **vanishing gradient problem** (gradients becoming too small) or sometimes the exploding gradient (too large).
+* RNNs struggle to learn from very long sequences due to the **vanishing gradient problem** (gradients becoming too small) or sometimes the exploding gradien(too large).
 
 ---
 
