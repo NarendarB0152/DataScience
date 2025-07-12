@@ -43,7 +43,6 @@ Input(x₃) ──────→ RNN ────→ Output(y₃)
                   ...
 ```
 
----
 
 ## 🔴 **Problem with RNN (Vanishing Gradient):**
 
